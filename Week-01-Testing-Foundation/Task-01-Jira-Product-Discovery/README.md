@@ -80,7 +80,7 @@ Created a separate Jira Software project named SmartCart Development.
 
 ## Video Demonstration
 
-**Project Walkthrough:** [Watch the complete video](PASTE_YOUR_GOOGLE_DRIVE_VIDEO_LINK_HERE)
+**Project Walkthrough:** [Watch the complete video](https://drive.google.com/file/d/10QEWsOhZf2ahbGZjDFCwD0AnzjFkbdSg/view?usp=sharing)
 
 ## Project Outcome
 
