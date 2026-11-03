@@ -6,6 +6,7 @@
 **Platform:** Jira Product Discovery and Jira Software  
 **Project Type:** Product Discovery and Delivery Management  
 **Task:** 01
+**Project Walkthrough:** [Watch the complete video](https://drive.google.com/file/d/10QEWsOhZf2ahbGZjDFCwD0AnzjFkbdSg/view?usp=sharing)
 
 ## Objective
 
