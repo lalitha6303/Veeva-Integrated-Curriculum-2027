@@ -1,0 +1,2 @@
+Hello! I am learning Java File Handling.
+This is my first practical.
