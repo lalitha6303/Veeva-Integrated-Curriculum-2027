@@ -25,10 +25,6 @@ A Java-based Student Management System that maintains student records using file
 - Exception Handling
 - CRUD Operations
 
-## Technologies Used
-- Java
-- Eclipse IDE
-
 ## Storage
 Student records are maintained in `student.txt`.
 
