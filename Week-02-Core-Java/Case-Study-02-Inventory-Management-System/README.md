@@ -31,9 +31,6 @@ A menu-driven Java application that manages product information and inventory qu
 - `Inventory.java` – Implements inventory operations.
 - `InventoryManagement.java` – Handles the menu and user interaction.
 
-## Technologies Used
-- Java
-- Eclipse IDE
 
 ## Storage
 Product details are maintained in an ArrayList during program execution. No file or database persistence is used.
